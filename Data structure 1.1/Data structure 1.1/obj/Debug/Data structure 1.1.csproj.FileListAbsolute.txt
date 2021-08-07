@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data structure 1.1.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data_structure_1._1.Insert.resources
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data_structure_1._1.Properties.Resources.resources
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data structure 1.1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data structure 1.1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\bin\Debug\Data structure 1.1.exe.config
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\bin\Debug\Data structure 1.1.exe
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\bin\Debug\Data structure 1.1.pdb
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data structure 1.1.exe
+C:\Users\dell\source\repos\Data structure 1.1\Data structure 1.1\obj\Debug\Data structure 1.1.pdb
