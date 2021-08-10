@@ -61,7 +61,7 @@ namespace Data_structure_1._1
             this.Name = "Insert";
             this.Text = "Insert order";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.Insert_Load);
+           
             this.ResumeLayout(false);
             this.PerformLayout();
 

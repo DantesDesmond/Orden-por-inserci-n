@@ -15,12 +15,11 @@ namespace Data_structure_1._1
         public Insert()
         {
             InitializeComponent();
+            Cargararreglo();   
+
         }
 
-        private void Insert_Load(object sender, EventArgs e)
-        {
-            // omitido aproposito, chao error(El metodo de carga del formulario me dio un error de la nada, asi que lo comente).
-        }
+        int[] vector = { 2, 25, 50, 78, 98, 12, 80, 79, 100, 40, 55, 32, 1, 200 };
 
         void orderinsert(int[] vector)
 
@@ -28,7 +27,6 @@ namespace Data_structure_1._1
             int startVector = vector.Length;
             int posicion = 0;
             int auxiliar = 0;
-
 
             for (int i = 1; i < startVector; i++)
             {
@@ -59,7 +57,7 @@ namespace Data_structure_1._1
              
             }
 
-            textBox1.Text += "Vector como va" + Environment.NewLine;
+            textBox1.Text += "Vector ordenado" + Environment.NewLine;
 
             foreach (int element in vector)
 
@@ -73,19 +71,20 @@ namespace Data_structure_1._1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int [] vector = {2,25,50,78,98,12,80,79,100,40,55,32,1,200};
+            orderinsert(vector);
+        }
 
-            textBox1.Text = "Vector a lo bruto" + Environment.NewLine;
+        private void Cargararreglo()
+        {
+            textBox1.Text = "Vector desordenado" + Environment.NewLine;
 
             foreach (int element in vector)
 
-            { 
-            
+            {
+
                 textBox1.Text += element + Environment.NewLine;
 
             }
-
-            orderinsert(vector);
         }
     }
 }
